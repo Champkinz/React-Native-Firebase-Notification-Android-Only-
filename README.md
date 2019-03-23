@@ -1,5 +1,5 @@
-# alakazam-task03
-alakazam-task03
+# React Native ToDoList
+This application is made with React Native and Redux. The user can add / Mark as done and Delete ToDos.
 
 **before running check if you the correct dependcies(the versions as well) as the project**
 
